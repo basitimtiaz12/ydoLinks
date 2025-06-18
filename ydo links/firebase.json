@@ -1,0 +1,12 @@
+{
+    "hosting": {
+      "public": "public",
+      "rewrites": [
+        {
+          "source": "/:code",
+          "destination": "https://your-api-project.cloudfunctions.net/deepLinkServer"
+        }
+      ]
+    }
+  }
+  
