@@ -1,13 +1,18 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.ydo.smartapp",
-        "sha256_cert_fingerprints": [
-          "YOUR_SHA256_CERT_HERE"
-        ]
-      }
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ydo.smartapp",
+      "sha256_cert_fingerprints": [
+        "61:F5:84:1C:81:1C:53:CC:8F:DE:34:B8:16:D0:9D:81:9A:5C:17:0E:23:03:79:65:F6:2B:2A:CB:31:40:89:87",
+        "49:21:E2:D6:64:29:CE:23:B7:5B:AF:E8:C0:80:4B:91:DB:62:94:79:A2:45:6F:7A:11:26:35:7C:FF:87:2B:BA",
+        "C1:27:8A:F9:7E:36:10:A1:74:90:FA:7B:C8:93:6A:60:D4:8E:B2:56:EF:F3:99:9F:5A:AE:11:A4:20:2E:09:70",
+        "1C:0C:0C:D8:94:39:64:97:CB:CE:A8:40:65:68:FC:0E:B4:D5:9C:CD:FC:38:4A:48:04:0A:26:65:E1:07:6E:31",
+        "48:AD:10:C1:56:F1:BC:35:09:6A:3E:17:C7:23:85:C6:48:DB:E3:30:74:D2:C0:6C:10:3E:75:A7:24:FE:C6:56"
+      ]
     }
-  ]
-  
+  }
+]

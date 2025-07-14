@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.ydo.smartapp",
-        "paths": [ "/**" ]
+        "appID": "HL6M98J6WK.com.ydo.smartapp",
+        "paths": [ "/*","/deeplink/*"]
       }
     ]
   }

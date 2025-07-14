@@ -1,0 +1,31 @@
+{
+    "projects": {
+      "staging": "yourdoctorsonline-staging",
+      "production": "yourdoctorsonline-prod",
+      "default": "yourdoctorsonline-staging"
+    },
+    "targets": {
+        "yourdoctorsonline-staging": {
+          "hosting": {
+            "yourdoctor-pages": [
+              "yourdoctor-pages"
+            ]
+          }
+        },
+        "yourdoctor-pages": {
+          "hosting": {
+            "yourdoctor-pages": [
+              "yourdoctor-pages"
+            ]
+          }
+        },
+        "yourdoctorsonline-prod": {
+              "hosting": {
+                "ydo-link": [
+                  "ydo-link"
+                ]
+              }
+            }
+      }
+  }
+  
